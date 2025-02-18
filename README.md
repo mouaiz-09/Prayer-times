@@ -1,9 +1,18 @@
+<div align=center>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF700&center=true&vCenter=true&width=435&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A8%D9%83)](https://git.io/typing-svg)
+</div>
+
+<div align=center>
+  
+
+
 # 🌙 Prayer Times 🕌✨
 
 ## 📖 Project Description
 
 The **Prayer Times** project is a 🌐 website that displays 🕋 prayer times for users based on their 🗺 geographical location. It offers a simple and user-friendly interface with a responsive design. 📱💻
-
+  </div>
 ## 🌟 Features
 - 🕰 Display prayer times based on the user's location.
 - 🎨 Attractive and easy-to-navigate user interface.
@@ -25,3 +34,4 @@ If you would like to improve the project or add new features, feel free to **For
 
 ## 👨‍💻 Developer
 - **GitHub**: [mouaiz-09](https://github.com/mouaiz-09) 🎉
+
