@@ -13,6 +13,7 @@
 
 The **Prayer Times** project is a 🌐 website that displays 🕋 prayer times for users based on their 🗺 geographical location. It offers a simple and user-friendly interface with a responsive design. 📱💻
   </div>
+  
 ## 🌟 Features
 - 🕰 Display prayer times based on the user's location.
 - 🎨 Attractive and easy-to-navigate user interface.
