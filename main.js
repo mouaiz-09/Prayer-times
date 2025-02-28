@@ -27,7 +27,7 @@ const getdat = (apilink) => {
         reqouset.send()
     })
 }
-getdat("https://api.aladhan.com/v1/timingsByCity?city=Hammam%20Righa&country=Algeria&method=1").then ( 
+getdat("https://api.aladhan.com/v1/timingsByCity?city=Hammam%20Righa&country=Algeria&method=19").then ( 
  (resul)=> {
   
   
